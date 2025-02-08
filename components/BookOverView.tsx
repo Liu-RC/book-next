@@ -54,7 +54,7 @@ const BookOverView = ({
         </Button>
       </div>
       <div className="relative flex flex-1 justify-center">
-        <div className="relative w-[300px] h-[450px]">
+        <div className="relative ">
           <BookCover
             variant="wide"
             className="z-10"
