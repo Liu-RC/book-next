@@ -2,7 +2,7 @@ import BookList from "@/components/BookList";
 import BookOverView from "@/components/BookOverView";
 import { sampleBooks } from "@/constants";
 
-const Home = () => {
+const Home = async () => {
   return (
     <>
       {/* 首页借书预览 */}
